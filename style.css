@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: hsl(271, 70%, 48%);
+}
+#home{
+    background-color: bisque;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#AboutUs{
+    background-color: rgb(205, 158, 249);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#Menu{
+    background-color: rgb(247, 176, 234);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
